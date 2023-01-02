@@ -516,7 +516,7 @@ msgid "matrix-uses-systemd"
 msgstr "uses systemd"
 
 msgid "built-for-anonymization"
-msgstr "Build for anonymisation purposes"
+msgstr "Built for anonymisation purposes"
 
 msgid "matrix-administration-shell"
 msgstr "Administration is mostly done by using shell commands"
